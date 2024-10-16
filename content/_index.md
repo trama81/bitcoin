@@ -24,6 +24,7 @@ Tuttavia, ti incoraggio a non lasciare che la diffidenza ti impedisca di esplora
 		- [Fonti fondamentali](https://trama81.github.io/bitcoin/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/index.html)
 		- [Crittografia](https://trama81.github.io/bitcoin/1_teoria_base/1_conoscere_bitcoin/3_crittografia/index.html)
 		- [Chiavi e indirizzi](https://trama81.github.io/bitcoin/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html)
+		- Firma digitale
 		- Transazioni
 		- Wallet
 		

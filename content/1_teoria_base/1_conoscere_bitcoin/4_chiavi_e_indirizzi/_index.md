@@ -142,7 +142,7 @@ B(Base58Check)          --> |A = 26-35 char| C(Indirizzo bitcoin)
 
 4. **Indirizzi Taproot (Bech32m)**:
     
-    - Prefisso Cominciano anch'essi con `bc1`, ma differenziabili per il prefisso "bc1p".
+    - Prefisso Cominciano con `bc1p`.
     - Descrizione: Introdotti nel novembre 2021 con l'aggiornamento Taproot, questi indirizzi utilizzano il formato Bech32m, che è un miglioramento delle funzionalità esistenti per supportare nuove tipologie di firme e smart contract.
     - Caratteristiche: Gli indirizzi Taproot migliorano la privacy e l'efficienza delle transazioni complesse, come quelle multi-firma o che richiedono condizioni specifiche di spesa. Consentono inoltre di raggruppare diverse condizioni in una singola chiave pubblica, riducendo i dati rivelati sulla blockchain.
     - Esempio: `bc1p4za7ax9zq0gw4s4jr4k8m6q3w0jf6l7c30a`.

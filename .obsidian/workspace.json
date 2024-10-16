@@ -21,7 +21,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
+                "file": "content/1_teoria_base/_index.md",
                 "mode": "source",
                 "source": false
               }
@@ -126,7 +126,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 313.5
+    "width": 245.5
   },
   "right": {
     "id": "32081b60cdda5f2d",
@@ -142,7 +142,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
+                "file": "content/1_teoria_base/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +159,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
+                "file": "content/1_teoria_base/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -182,7 +182,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md"
+                "file": "content/1_teoria_base/_index.md"
               }
             }
           },
@@ -214,21 +214,34 @@
   },
   "active": "220845d9b98e0afa",
   "lastOpenFiles": [
-    "content/1_teoria_base/_index.md",
+    "public/index.xml",
+    "public/1_teoria_base/index.xml",
+    "public/tags/index.xml",
+    "public/tags/index.html",
+    "public/tags",
+    "public/categories/index.xml",
+    "public/categories/index.html",
+    "public/categories",
+    "public/sitemap.xml",
+    "public/3_operativita/index.xml",
+    "public/3_operativita/index.html",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen15.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen14.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen13.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen12.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen11.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen10.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen09.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen08.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen07.png",
+    "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen06.png",
+    "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
     "content/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
+    "content/1_teoria_base/1_conoscere_bitcoin/6_transazioni/_index.md",
+    "content/1_teoria_base/_index.md",
     "README.md",
-    "hugo.toml",
-    "themes/hugo-theme-relearn/vscode-frontmatter/snippets.en.json",
-    "themes/hugo-theme-relearn/vscode-frontmatter/snippets.de.json",
-    "themes/hugo-theme-relearn/vscode-frontmatter",
-    "themes/hugo-theme-relearn/theme.toml",
-    "themes/hugo-theme-relearn/static/js/mathjax/output/chtml/fonts/woff-v2/MathJax_Zero.woff",
-    "themes/hugo-theme-relearn/static/js/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Regular.woff",
-    "themes/hugo-theme-relearn/static/js/mathjax/output/chtml/fonts/woff-v2/MathJax_Vector-Bold.woff",
-    "themes/hugo-theme-relearn/static/js/mathjax/output/chtml/fonts/woff-v2/MathJax_Typewriter-Regular.woff",
-    "themes/hugo-theme-relearn/static/js/mathjax/output/chtml/fonts/woff-v2/MathJax_Size4-Regular.woff",
-    "themes/hugo-theme-relearn/static/images/logo.svg",
-    "themes/hugo-theme-relearn/static/images/logo-wolf.svg",
     "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/children-1-1-1-1-1-1/_index.pir.md",
     "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/children-1-1-1-1-1-1/_index.en.md",
     "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/children-1-1-1-1/children-1-1-1-1-1/_index.pir.md",
@@ -246,19 +259,6 @@
     "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.pir.md",
     "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/children-1-1-1/_index.en.md",
     "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/_index.pir.md",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/_index.en.md",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-4/_index.pir.md",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-4/_index.en.md",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-3/test3.pir.md",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-3/test3.en.md",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-3/_index.pir.md",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/attachments/index.en.files/hugo.png",
-    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/resources/hugo.png",
-    "themes/hugo-theme-relearn/exampleSite/content/cont/i18n/i18n-menu.gif",
-    "themes/hugo-theme-relearn/exampleSite/content/cont/frontmatter/frontmatter-icon.png",
-    "themes/hugo-theme-relearn/exampleSite/content/cont/archetypes/pages-home.png",
-    "themes/hugo-theme-relearn/exampleSite/content/cont/archetypes/pages-default.png",
-    "themes/hugo-theme-relearn/exampleSite/content/cont/archetypes/pages-chapter.png",
-    "themes/hugo-theme-relearn/exampleSite/content/basics/topbar/topbar-closed.png"
+    "themes/hugo-theme-relearn/exampleSite/content/shortcodes/children/children-1/children-1-1/_index.en.md"
   ]
 }
