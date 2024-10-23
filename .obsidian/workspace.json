@@ -19,11 +19,10 @@
             "id": "220845d9b98e0afa",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "diff-view",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
-                "mode": "source",
-                "source": false
+                "file": ".obsidian/workspace.json",
+                "staged": false
               }
             }
           },
@@ -142,7 +141,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -159,7 +157,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -181,9 +178,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md"
-              }
+              "state": {}
             }
           },
           {
@@ -214,17 +209,17 @@
   },
   "active": "220845d9b98e0afa",
   "lastOpenFiles": [
-    "public/index.xml",
-    "public/1_teoria_base/index.xml",
-    "public/tags/index.xml",
-    "public/tags/index.html",
-    "public/tags",
-    "public/categories/index.xml",
-    "public/categories/index.html",
-    "public/categories",
-    "public/sitemap.xml",
-    "public/3_operativita/index.xml",
-    "public/3_operativita/index.html",
+    "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
+    "public/1_teoria_base/1_conoscere_bitcoin/index.xml",
+    "public/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.xml",
+    "public/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/index.html",
+    "public/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi",
+    "public/1_teoria_base/1_conoscere_bitcoin/3_crittografia/index.xml",
+    "public/1_teoria_base/1_conoscere_bitcoin/3_crittografia/index.html",
+    "public/1_teoria_base/1_conoscere_bitcoin/3_crittografia",
+    "public/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/src/Mastering_Bitcoin_IT.pdf",
+    "public/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/src",
+    "public/1_teoria_base/1_conoscere_bitcoin/2_fonti_fondamentali/index.xml",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen15.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen14.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen13.png",
@@ -236,7 +231,6 @@
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen07.png",
     "public/1_teoria_base/2_privacy_e_sicurezza/5_creare_il_proprio_nodo/img/screen06.png",
     "content/1_teoria_base/1_conoscere_bitcoin/4_chiavi_e_indirizzi/_index.md",
-    "content/1_teoria_base/1_conoscere_bitcoin/5_firma_digitale/_index.md",
     "content/1_teoria_base/_index.md",
     "content/1_teoria_base/1_conoscere_bitcoin/_index.md",
     "content/_index.md",
